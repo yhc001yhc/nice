@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NODE_COUNT=20
+NODE_COUNT=40
 WITHDRAW_ADDRESS="0xa5d52b7ef3a8dcc94a394debed9aedcab6a2bffe"
 BASE_PORT=1317
 LOG_FILE="/root/withdraw.log"
